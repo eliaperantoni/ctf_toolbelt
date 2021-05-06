@@ -26,7 +26,7 @@ import string
 import time
 
 # How many asynchronous workers to use to perform the HTTP requests
-N_WORKERS = 1
+N_WORKERS = 12
 
 # Root string that is the prefix of all secret stings
 ROOT = ''
